@@ -1,7 +1,7 @@
 /* Add CSS Styling */
 p{
     background-color: #f58585;
-    font-style: Verdana, DejaVu Sans, sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 .two{

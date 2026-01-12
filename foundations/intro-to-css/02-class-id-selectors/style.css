@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+p{
+    background-color: #f58585;
+    font-style: Verdana, DejaVu Sans, sans-serif;
+}
+
+.two{
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.three{
+    font-size: 24px;
+}
+
+.four{
+    background-color: #bcffbc;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+
